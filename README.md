@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Website-Defacement-Detection
 =======
 # Website Defacement Detection System
